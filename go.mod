@@ -1,4 +1,4 @@
-module svelte-go
+module go-svelte
 
 go 1.19
 
